@@ -1,0 +1,6 @@
+www
+mail
+ftp
+ns1
+ns2
+intranet
